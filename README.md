@@ -1,0 +1,1 @@
+# quete-merge-conflits
